@@ -1,5 +1,5 @@
 # Transaction Dashboard
-MERN Stack Challenge by Roxiler
+MERN Stack Assignment by Roxiler
 <br/>
 View live app via this [Link](https://roxiler-assignment-frontend-4kxt.onrender.com)
 <br/>
